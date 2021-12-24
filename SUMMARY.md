@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome!](README.md)
+* [한국말로 번역 하기 해보는중](README.md)
 * [Quick Start](quick-start.md)
 
 ## Reference
